@@ -200,3 +200,6 @@ This repository serves as the official landing page for **Mythscroll**. The soft
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Mythscroll today!**
+
+---
+**Last updated:** 2026-11-06 20:08:40 UTC
